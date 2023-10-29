@@ -1,9 +1,9 @@
 {
   "development": {
-    "username": "ptudwprojectdb",
-    "password": "neXFLGGhGVQls98TO1trERvdLFB9OUaI",
-    "database": "ptudwprojectdb_9ed6",
-    "host": "dpg-ckv72hub0mos73fct8fg-a.singapore-postgres.render.com",
+    "username": "ptudwdemo",
+    "password": "jIhkQUQLiAHwt14ixBfENzL4E27zuXa1",
+    "database": "ptudwdemo_dudd",
+    "host": "dpg-ckv8e1ub0mos73flegm0-a.singapore-postgres.render.com",
     "dialect": "postgres",
     "dialectOptions": {
       "ssl": {
