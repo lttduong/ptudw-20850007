@@ -1,9 +1,10 @@
 {
+  "use_env_variable": "POSTGRESSQL_URL",
   "development": {
     "username": "ptudwdemo",
     "password": "jIhkQUQLiAHwt14ixBfENzL4E27zuXa1",
     "database": "ptudwdemo_dudd",
-    "host": "dpg-ckv8e1ub0mos73flegm0-a.singapore-postgres.render.com",
+    "host": "postgres://ptudwdemo:jIhkQUQLiAHwt14ixBfENzL4E27zuXa1@dpg-ckv8e1ub0mos73flegm0-a/ptudwdemo_dudd",
     "dialect": "postgres",
     "dialectOptions": {
       "ssl": {
