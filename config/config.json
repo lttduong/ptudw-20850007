@@ -24,7 +24,7 @@
     "username": "ptudwdemo",
     "password": "jIhkQUQLiAHwt14ixBfENzL4E27zuXa1",
     "database": "ptudwdemo_dudd",
-    "host": "postgres://ptudwdemo:jIhkQUQLiAHwt14ixBfENzL4E27zuXa1@dpg-ckv8e1ub0mos73flegm0-a/ptudwdemo_dudd",
+    "host": "dpg-ckv8e1ub0mos73flegm0-a.singapore-postgres.render.com",
     "dialect": "postgres",
     "dialectOptions": {
       "ssl": {
